@@ -1,6 +1,6 @@
 'use strict';
 var app = require('./app');
-var port = 3800;
+var port = 3000;
 
 var mongoose = require('mongoose');
 mongoose.Promise = global.Promise;
